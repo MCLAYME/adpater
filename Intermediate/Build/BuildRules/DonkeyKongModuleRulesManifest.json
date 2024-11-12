@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\layme\\Documents\\Unreal Projects\\DonkeyKong\\Source\\DonkeyKong\\DonkeyKong.Build.cs",
+		"C:\\Users\\layme\\Documents\\Unreal Projects\\DonkeyKong\\Source\\DonkeyKong.Target.cs",
+		"C:\\Users\\layme\\Documents\\Unreal Projects\\DonkeyKong\\Source\\DonkeyKongEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

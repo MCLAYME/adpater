@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DonkeyKong-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\DonkeyKongEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\AProjectileAdapter.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\AProyectil.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKong.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKongCharacter.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKongGameMode.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\IProjectileInterface.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\AProjectileAdapter.gen.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\AProyectil.gen.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKong.init.gen.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKongCharacter.gen.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKongGameMode.gen.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\IProjectileInterface.gen.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Default.rc2.res"
+/OUT:"C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\UE4Editor-DonkeyKong-0001.lib"

@@ -1,0 +1,2 @@
+C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Definitions.DonkeyKong.h
+C:\Users\layme\Documents\Unreal Projects\DonkeyKong\Source\DonkeyKong\DonkeyKong.h
